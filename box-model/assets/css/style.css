@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: aquamarine;
+  height: 50px;
+  font-size: 30px;
+  padding: 50px;
+  border: 10px solid red;
+  margin-top: 90px;
+  border-radius: 20px;
+}
+
+p {
+  background-color: greenyellow;
+  height: 50px;
+  font-size: 30px;
+}
+span {
+  background-color: purple;
+  height: 50px;
+  font-size: 30px;
+}
