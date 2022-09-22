@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+.bg-green {
+  background-color: #28a745;
+}
+.logo-white {
+  width: 90px;
+}
+.margin-icon {
+  margin-right: 10px;
+}
+.green {
+  color: #28a745;
+}
+
+/* @media screen and (max-width: 768px) {
+  .desaparece {
+    display: none;
+  }
+} */
