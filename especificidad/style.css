@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: antiquewhite;
+}
+/*variables css*/
+:root {
+  --green: green;
+  --bluelight: blue;
+  --purple: purple;
+  --primary: red;
+}
+p {
+  font-size: 1.5rem;
+}
+
+.parrafo1 {
+  color: var(--primary);
+}
+.parrafo2 {
+  color: var(--primary);
+}
+.parrafo1 {
+  color: pink;
+}
+p {
+  color: chartreuse;
+}
+#id {
+  background-color: blueviolet;
+}
+.clase p {
+  background-color: #fff;
+}
+div {
+  background-color: var(--green);
+  height: 50px;
+}
+p {
+  color: black !important;
+}
